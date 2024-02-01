@@ -4,6 +4,8 @@
     --amarelo-terra: #EABE7C;
     --chama: #DD6031;
     --bistre: #311E10;
+    --preto: #000;
+    --cinza: #333;
 }
 
 body {
@@ -15,7 +17,7 @@ body {
     margin: 0;
     flex-direction: column;
     font-weight: 900;
-    background-color: var(--bistre);
+    background-color: var(--preto);
     color: var(--baunilha);
 }
 
