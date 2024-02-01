@@ -15,7 +15,7 @@ body {
     margin: 0;
     flex-direction: column;
     font-weight: 900;
-    background-color: var(--canudo);
+    background-color: var(--amarelo-terra);
     color: var(--bistre);
 }
 
