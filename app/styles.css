@@ -15,8 +15,8 @@ body {
     margin: 0;
     flex-direction: column;
     font-weight: 900;
-    background-color: var(--chama);
-    color: var(--bistre);
+    background-color: var(--bistre);
+    color: var(--baunilha);
 }
 
 body * {
